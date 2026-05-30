@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\bin\Debug\Inshallah Do it.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\bin\Debug\Inshallah Do it.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\bin\Debug\Inshallah Do it.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\obj\Debug\Inshallah_Do_it.Form1.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\obj\Debug\Inshallah_Do_it.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\obj\Debug\Inshallah Do it.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\obj\Debug\Inshallah Do it.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\obj\Debug\Inshallah Do it.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\obj\Debug\Inshallah Do it.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\obj\Debug\Inshallah_Do_it.Dash.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\obj\Debug\Inshallah_Do_it.allpatient.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\obj\Debug\Inshallah_Do_it.history.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\Inshallah Do it\Inshallah Do it\obj\Debug\Inshallah_Do_it.Form2.resources
